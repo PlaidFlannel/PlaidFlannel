@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PlaidFlannel
-- 👀 I’m interested in making small but useful and fun programs and games.
-- 🌱 I’m currently learning Python, C#, and Unity
+- 👀 I’m interested in making small programs and games that are useful and fun.
+- 🌱 I’m currently learning Python, C#, Unity, HTML and CSS.
 
 
 <!---
